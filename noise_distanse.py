@@ -34,4 +34,3 @@ for p in data:
         noisy_data.append(p)
 
 plt.show()
-
